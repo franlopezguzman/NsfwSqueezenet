@@ -23,6 +23,10 @@ This model is sufficient enough for real time video classification (modern hardw
 
 It is my hope that you'll use this model to do something good. The development of this model and things like it takes a heavy toll. I am of the opinion that this particular problem is now conquered and am making this available so neither you or anyone else will have to revisit such work again.
 
+## CoreML
+
+The CoreML Model folder contains a coreml version of the model that can be integrated directly into Xcode.
+
 ## Todo
 
   - Right now this model performs very well with pornographic imagery, but still doesn't perform quite as well with plain nudity or suggestive imagery. The model can benefit from adding plain nudity, devoid of sexual actions, to the training input.
