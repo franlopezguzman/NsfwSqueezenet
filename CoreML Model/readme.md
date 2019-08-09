@@ -1,0 +1,1 @@
+This folder contains the conversion of Nsfw-Squeeznet from Caffe to CoreML model. Visit [caffe-to-coreml-converter](https://github.com/franlopezguzman/caffe-to-coreml-converter) to see the code used for the conversion.
